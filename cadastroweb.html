@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro de Usuário</title>
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+
+<form onsubmit="alert('Cadastro realizado com sucesso!'); return false;">
+    <h1>Cadastro de Usuário</h1>
+
+    <label>Nome:</label>
+    <input type="text" name="nome" required>
+
+    <label>Email:</label>
+    <input type="email" name="email" required>
+
+    <label>Senha:</label>
+    <input type="password" name="senha" required>
+
+    <label>Data de Nascimento:</label>
+    <input type="date" name="nascimento">
+
+    <label>Telefone:</label>
+    <input type="tel" name="telefone">
+
+    <label>Endereço:</label>
+    <input type="text" name="endereco">
+
+    <label>Sexo:</label>
+    <select name="sexo">
+      <option value="">Selecione...</option>
+      <option value="M">Masculino</option>
+      <option value="F">Feminino</option>
+      <option value="O">Outro</option>
+    </select>
+
+    <button type="submit">Cadastrar</button>
+  </form>
+
+</body>
+</html>
