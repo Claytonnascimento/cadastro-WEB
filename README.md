@@ -31,8 +31,9 @@ RNF004: O sistema deve validar entradas de dados (ex: formato do email).
 RNF005: O tempo de resposta para ações deve ser inferior a 2 segundos.
 RNF006: O sistema deve armazenar as senhas de forma segura (criptografia).
 
-Diagrama Entid<img width="1366" height="768" alt="Imagem1" src="https://github.com/user-attachments/assets/dabda078-6802-4c94-ad0a-3cac29660430" />
-ade Relacionamento
+Diagrama Entidade Relacionamento
+<img width="1366" height="768" alt="Imagem1" src="https://github.com/user-attachments/assets/dabda078-6802-4c94-ad0a-3cac29660430" />
+
 
 
 Diagrama Entidade Relacionamento
