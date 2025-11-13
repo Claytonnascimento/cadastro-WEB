@@ -1,4 +1,4 @@
-1) FASE 1 – DOCUMENTAÇÃO + FRONTEND 
+FASE 1 – DOCUMENTAÇÃO + FRONTEND 
 
 B) Melhorias do projeto
 A versão inicial do projeto apresentava apenas dois campos: Nome e Email.
