@@ -14,8 +14,7 @@ Foram adicionados novos campos e aprimorou-se a interface.
 - Formulário centralizado e com cores neutras;
 - Botão de envio com destaque;
 - Validação de campos obrigatórios;
-- Mensagem de cadastro realizado com sucesso;
-- Design moderno e responsivo.
+- Mensagem de cadastro realizado com sucesso.
 
 C) Documentação do Sistema
 Requisitos Funcionais
